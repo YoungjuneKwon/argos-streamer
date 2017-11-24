@@ -29,6 +29,7 @@
         "mqtt": "*",
         "express": "~4.12.4",
         "async": "*",
-        "socket.io": "*"
+        "socket.io": "*",
+        "get-folder-size": "*"
     }
 }
