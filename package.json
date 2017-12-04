@@ -1,6 +1,6 @@
 {
     "name": "argos-streamer",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "description": "Stream server for ARGOS",
     "main": "lib",
     "scripts": {
